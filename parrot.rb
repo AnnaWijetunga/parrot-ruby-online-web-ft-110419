@@ -3,5 +3,4 @@
 
 def parrot(voice = "Squawk")
   puts voice
-  parrot
 end 
